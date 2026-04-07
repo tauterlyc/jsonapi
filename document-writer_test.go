@@ -6,8 +6,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	. "tauterlyc/jsonapi"
-	"tauterlyc/jsonapi/models"
+	. "github.com/tauterlyc/jsonapi"
+	"github.com/tauterlyc/jsonapi/models"
 
 	"github.com/stretchr/testify/assert"
 )

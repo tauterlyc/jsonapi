@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strings"
 
-	"tauterlyc/jsonapi/models"
+	"github.com/tauterlyc/jsonapi/models"
 )
 
 func ResourceFromRequest(r *http.Request) (models.Resource, error) {

@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	. "tauterlyc/jsonapi"
-	jmodels "tauterlyc/jsonapi/models"
+	. "github.com/tauterlyc/jsonapi"
+	jmodels "github.com/tauterlyc/jsonapi/models"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

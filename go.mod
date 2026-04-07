@@ -1,4 +1,4 @@
-module tauterlyc/jsonapi
+module github.com/tauterlyc/jsonapi
 
 go 1.26.1
 

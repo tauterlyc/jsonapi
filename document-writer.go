@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	. "tauterlyc/jsonapi/models"
+	. "github.com/tauterlyc/jsonapi/models"
 )
 
 type DocumentWriter interface {

@@ -1,6 +1,6 @@
 package jsonapi
 
-import "tauterlyc/jsonapi/models"
+import "github.com/tauterlyc/jsonapi/models"
 
 var Getters map[string]func(ID string) (models.Resource, error) = map[string]func(ID string) (models.Resource, error){}
 

@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"regexp"
 
-	. "tauterlyc/jsonapi/models"
+	. "github.com/tauterlyc/jsonapi/models"
 )
 
 type DocumentReader interface {
